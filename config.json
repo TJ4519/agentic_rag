@@ -1,0 +1,6 @@
+{
+    "document_processing": {
+        "input_directory": "docs/",
+        "output_directory": "docs/output/"
+    }
+} 

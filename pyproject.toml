@@ -1,0 +1,11 @@
+[project]
+name = "rag-with-smolagents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "docling>=2.23.1",
+    "smolagents>=1.9.2",
+    "tdqm>=0.0.1",
+]
